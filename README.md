@@ -46,3 +46,5 @@ The script creates a custom class extending FPDF to define consistent **headers*
 4. **Scientific Research**: Automate experiment result documentation.
 
 #OUTPUT:
+
+<img width="937" height="715" alt="Image" src="https://github.com/user-attachments/assets/56e369e5-aa25-42df-abfb-fbc1093b9d44" />
